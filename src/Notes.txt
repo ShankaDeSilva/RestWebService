@@ -1,0 +1,10 @@
+
+GET -> retrieve details -> fetch employee details -> localhost:8080/employees
+
+POST -> insert -> Insert employee details -> localhost:8080/employees/dto
+
+PUT -> update -> update employee details -> localhost:8080/employees/update/{employeeId}
+
+DELETE -> delete -> delete employee details -> localhost:8080/employees/delete/{employeeId}
+
+Client - Postman
